@@ -6,6 +6,7 @@
 <p align="center">
   <strong>A LightRAG operating system built for verification.</strong><br />
   Local LLMs · multilingual embeddings · graph-aware retrieval · GPU-accelerated containers
+  (originally built for NASA JPL)
 </p>
 
 <p align="center">
