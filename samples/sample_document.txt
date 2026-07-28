@@ -1,0 +1,29 @@
+# Sample Document for RAG Testing
+
+## Introduction
+This is a sample document to test the RAG (Retrieval-Augmented Generation) system functionality.
+
+## Key Features
+- Document processing and indexing
+- Semantic search capabilities
+- Question answering with context
+- Multilingual support
+
+## Technical Details
+The system uses:
+- Gemma 3 27B IT model for text generation
+- Multilingual E5 embedding model for semantic search
+- Advanced document processing pipeline
+- Real-time question answering
+
+## Usage
+1. Upload documents through the web interface
+2. Ask questions about the content
+3. Get accurate answers with source citations
+4. Explore the knowledge base interactively
+
+## Benefits
+- Improved accuracy through context retrieval
+- Transparent source attribution
+- Scalable document processing
+- User-friendly interface
