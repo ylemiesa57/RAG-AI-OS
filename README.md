@@ -1,8 +1,5 @@
-<p align="center">
-  <a href="https://ylemiesa57.github.io/RAG-AI-OS/">
-    <img src="docs/assets/banner.svg" alt="RAG-AI-OS — LightRAG-built, verification-oriented" width="100%" />
-  </a>
-</p>
+<img width="1363" height="786" alt="image" src="https://github.com/user-attachments/assets/85f7b709-c289-43c9-9544-019ebef3bccc" />
+
 
 <h1 align="center">RAG-AI-OS</h1>
 
